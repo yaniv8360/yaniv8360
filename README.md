@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Yaniv Rotics 👋 <p align="right"></p>
 
 ## 👨🏻‍💻 About Me
-- 🌱 I’m 28-year-old computer science graduate from Bar-Ilan University.
+- 🌱 I’m computer science graduate from Bar-Ilan University.
 - 🥅 I have A self-motivated and driven individual with a knack for learning new technologies and applying them to real-world problems.
--  I am currently based in Binyamina, but I am open to relocation for the right opportunity 🤓
 - I have a dedicated individual with a proven track record of success in leadership and community service in the CS Student Council of Bar-Ilan University.
 <br/>
 
